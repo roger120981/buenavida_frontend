@@ -7,7 +7,4 @@
   let { participants } = data;
 </script>
 
-<main class="container mx-auto p-4">
-  <h1 class="text-2xl font-bold mb-4">Participants</h1>
-  <DataTable data={participants} {columns} />
-</main>
+demo
